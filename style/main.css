@@ -1,0 +1,163 @@
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #dfb400;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #666;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #666;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #dfb400;
+    --danger: #dc3545;
+    --light: #f8f8f7;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 768px;
+    --breakpoint-md: 1025px;
+    --breakpoint-lg: 1366px;
+    --breakpoint-xl: 1600px;
+    --breakpoint-xxl: 1921px;
+    --font-family-sans-serif: "Roboto","Helvetica Neue",Arial;
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+
+html {
+    display: block;
+}
+
+
+
+
+
+.navbar a:hover{
+    color: orangered;
+   
+}
+
+
+
+.navbar a{
+    color: white;
+    
+}
+
+
+
+.revuelto{
+    position: absolute;
+    top: 228px;
+    left: 216px;
+    color: white;
+   
+    
+  }
+ 
+
+.rlogo{
+    height: 25px;
+    width: 400px;
+}
+
+
+#hurracane{
+    height: 25px;
+    width: 400px;
+    position: absolute;
+    right: 230px;
+}
+
+
+.hur{
+   /* margin-left:22%; */
+    position: absolute;
+    right: 50px;
+}
+
+
+
+.green{
+    width: 1000px;
+}
+
+
+.rback{
+    position: absolute;
+    right: 145px;
+    top: 934px;
+
+    width: 600px;
+
+}
+
+
+.rside{
+    position:absolute;
+    right: 145px;
+    top: 934px;
+
+}
+
+
+
+
+
+
+.urus1{
+margin-top: 1256px;
+margin-left: 65px;
+}
+.urus1p{
+    margin-left: 65px;
+}
+   
+
+.urus{
+    position: absolute;
+    right: 15px;
+    top: 2600px;
+   
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.slideshow-container {
+    max-width: 800px;
+    /* position: relative; */
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+}
+/* 
+img {
+    width: 100%;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
